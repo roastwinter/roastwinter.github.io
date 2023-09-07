@@ -1,0 +1,4 @@
+http://example.com/2023/09/07/my-first-blog/
+http://example.com/tags/index.html
+http://example.com/2023/09/07/hello-world/
+http://example.com/
